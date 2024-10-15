@@ -80,3 +80,6 @@ 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 — personal PAT Token
  
  
 https://github.com/2yb/Learning.git - remote url 
+
+
+git remote set-url origin https://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@github.com/2yb/Learning.git
